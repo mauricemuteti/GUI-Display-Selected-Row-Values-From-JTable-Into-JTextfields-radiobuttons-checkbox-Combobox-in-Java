@@ -1,2 +1,3 @@
-Browse For Image File And Display It On Jlabel Using Java Swing
-Video Tutorial - https://www.youtube.com/watch?v=p4HV2zDcANI&feature=youtu.be
+GUI Display Selected Row Values From JTable Into JTextfields radiobuttons checkbox Combobox in Java Video Tutorial - https://www.youtube.com/watch?v=9fqG8RBlfXo
+
+
